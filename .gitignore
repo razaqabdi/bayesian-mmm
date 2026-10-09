@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+outputs/*.nc
+# local run logs (contain your computer's file paths)
+outputs/run_log.txt
+outputs/setup_log.txt
+# never commit secrets
+.streamlit/secrets.toml
