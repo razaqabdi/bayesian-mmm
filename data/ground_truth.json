@@ -1,0 +1,37 @@
+{
+  "l_max": 8,
+  "channels": {
+    "tv": {
+      "alpha": 0.65,
+      "lam": 2.0,
+      "beta_gbp": 136019.53,
+      "total_spend": 4601092.0,
+      "total_contribution": 6441528.800000001,
+      "roi": 1.4
+    },
+    "paid_search": {
+      "alpha": 0.1,
+      "lam": 3.0,
+      "beta_gbp": 90533.57,
+      "total_spend": 3051272.0,
+      "total_contribution": 9764070.400000002,
+      "roi": 3.2
+    },
+    "paid_social": {
+      "alpha": 0.35,
+      "lam": 2.5,
+      "beta_gbp": 66187.6,
+      "total_spend": 2136934.0,
+      "total_contribution": 4487561.4,
+      "roi": 2.1
+    },
+    "display": {
+      "alpha": 0.2,
+      "lam": 4.0,
+      "beta_gbp": 7570.4,
+      "total_spend": 1248095.0,
+      "total_contribution": 873666.4999999999,
+      "roi": 0.7
+    }
+  }
+}

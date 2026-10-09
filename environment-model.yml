@@ -1,0 +1,13 @@
+# Full environment for simulating data and fitting the model (Windows, macOS or Linux).
+# conda env create -f environment-model.yml
+# (Named so Streamlit Community Cloud ignores it and installs the light requirements.txt instead.)
+name: bayesian-mmm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pymc-marketing>=1.2
+  - streamlit
+  - plotly
+  - scipy
+  - matplotlib

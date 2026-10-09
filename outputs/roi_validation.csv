@@ -1,0 +1,5 @@
+channel,true_roi,est_roi,roi_5%,roi_95%,truth_in_90%_interval,spend_gbp
+tv,1.4,1.277,1.148,1.404,True,4601092.0
+paid_search,3.2,3.858,3.212,4.605,False,3051272.0
+paid_social,2.1,1.908,1.389,2.569,True,2136934.0
+display,0.7,0.646,0.396,0.868,True,1248095.0

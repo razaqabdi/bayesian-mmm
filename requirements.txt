@@ -1,0 +1,7 @@
+# Only what the Streamlit app needs (used by Streamlit Community Cloud).
+# The app reads outputs/model_params.json, so it does not need PyMC.
+streamlit
+plotly
+numpy
+pandas
+scipy
