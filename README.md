@@ -3,8 +3,7 @@
 **How much revenue does each marketing channel really drive, and where should the next pound go?**
 A Bayesian marketing mix model (MMM) built with [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing), calibrated with lift tests, checked against a known truth and turned into an interactive budget planner.
 
-<!-- After deploying on Streamlit Community Cloud, replace the link below with your app's URL. -->
-**[Open the live app](https://your-app-name.streamlit.app)** · [Results](#results) · [The app](#the-app) · [How it works](#how-it-works) · [Run it yourself](#run-it-yourself)
+**[Open the live app](https://bayesian-mmm-ebwrjpzjcdqs6atqiaihea.streamlit.app/)** · [Results](#results) · [The app](#the-app) · [How it works](#how-it-works) · [Run it yourself](#run-it-yourself)
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![PyMC-Marketing 1.2](https://img.shields.io/badge/PyMC--Marketing-1.2-1c3d6e)
